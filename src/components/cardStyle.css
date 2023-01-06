@@ -1,0 +1,25 @@
+.wdth{
+    width: 100%;
+    height: 260px;
+}
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+    top:15px;
+    right: 50px;
+    border-radius: 15px;
+    text-decoration: none;
+    z-index: 0;
+}
+/* .bt:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .bt{
+	box-shadow: none !important
+}
+.bt:hover{
+    border: none;
+} */

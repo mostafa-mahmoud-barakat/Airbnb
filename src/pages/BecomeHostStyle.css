@@ -1,0 +1,68 @@
+.btnhost{
+background: linear-gradient(to right, #E61E4D 0%, #E31C5F 50%, #D70466 100%) !important;
+color: #FFFFFF !important;
+/* font-style: italic; */
+font-weight: bold !important;
+}
+.btnhost:hover{
+border: 0px solid transparent !important;
+}
+.btnhost:focus{
+border: 0px solid transparent !important;
+}
+.bgdark{
+background-color: #000;
+height: auto;
+}
+.angledown:hover{
+background-color: #717171; 
+border-radius: 100%; 
+padding: 0 4px;
+}
+.titles{
+font-size: 75px;
+}
+.images{
+width: 101%;
+}
+.profits{
+    color: #717171;
+    font-size: 55px;
+}
+select {
+    color: #000 !important;
+    font-weight: bold !important;
+}
+.optionss{
+    background-color: #000 !important;
+    color: #FFFFFF !important;
+padding: 5px 10px !important;
+}
+.anco{
+    color: #000 !important;
+    font-weight: bold !important;
+}
+.sectionfour{
+    background-color:#FF385C  !important;
+
+}
+.fontsizeh1{
+    font-size: 3em;
+
+}
+a{
+    color: #000!important;
+    text-decoration: none !important;
+
+}
+a:hover{
+    text-decoration: underline !important;
+    color: #000!important;
+}
+.modals{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: index 100000;
+
+}

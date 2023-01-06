@@ -1,0 +1,27 @@
+a:link,h3 {
+    text-decoration: none;
+    color: #FF385C;
+  }
+  
+a:visited,h3:visited {
+    text-decoration: none;
+    color: #FF385C;
+
+  }
+  
+a:hover,h3:hover {
+    text-decoration: none;
+    color: #FF385C;
+
+  }
+  
+a:active,h3:active {
+    text-decoration: none;
+    color: #FF385C;
+
+  }
+.btnhost{
+    background: linear-gradient(to right, #E61E4D 0%, #E31C5F 50%, #D70466 100%) !important;
+color: #FFFFFF !important;
+font-weight: bold !important;
+}
